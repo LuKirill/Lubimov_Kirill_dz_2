@@ -22,3 +22,4 @@ print(my_str)
 print(my_list)
 print(id(my_list))
 # переписал из разбора урока, тк не понял как делать.
+
