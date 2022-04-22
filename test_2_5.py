@@ -41,4 +41,3 @@ for price in prices:
     rub = int(price)
     cent = (price - rub) * 100
     print(f'{rub} руб {cent:02.0f} коп', end=", ")
-# при запуске сразу всего кода print работает не правильно
