@@ -37,6 +37,3 @@ my_list = ' '.join(my_list)
 
 print(my_list)
 print(id(my_list))
-#
-# for i in my_list:
-#     print("Привет,", i.split()[-1].capitalize()) # гениально!
