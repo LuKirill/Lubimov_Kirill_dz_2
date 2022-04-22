@@ -25,4 +25,3 @@ my_str2 = ' '.join(my_list)
 my_str2 = my_str2[0] + " ' " + '05' + " '" + my_str2[3:10] + "' " + my_str2[10:12] + " '" + my_str2[12:44] + "' " + '+05' + " '" + my_str2[-9:]
 my_list2 = my_str2.split(' ')
 print(my_list2)
-#print(id(my_list2))
